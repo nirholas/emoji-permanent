@@ -1,0 +1,11 @@
+{
+  "slug": "emoji-permanent",
+  "name": "Emoji Permanent",
+  "kind": "art",
+  "description": "Build tiny emoji mosaics that fit comfortably inside Solana transaction history.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
