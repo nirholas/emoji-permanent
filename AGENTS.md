@@ -8,7 +8,7 @@ Build tiny emoji mosaics that fit comfortably inside Solana transaction history.
 
 - Source: https://github.com/nirholas/emoji-permanent
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
